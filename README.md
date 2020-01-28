@@ -20,10 +20,8 @@ movieFlix is an app that allows users to browse movies from the [The Movie Datab
 - [ ] (2pt) User can view the app on various device sizes and orientations.
 - [x] (1pt) Run your app on a real device.
 
-### App Walkthough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, https://recordit.co/dYBdvUO1zb . Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="https://recordit.co/dYBdvUO1zb" width=250><br>
+<img src="http://g.recordit.co/dYBdvUO1zb.gif" width=250><br>
 
 ### Notes
 I was very sick with the flu for most of this, so I would say it was a learning experience
